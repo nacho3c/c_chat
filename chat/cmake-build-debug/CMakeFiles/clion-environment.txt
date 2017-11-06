@@ -1,0 +1,3 @@
+ToolSet: w64 4.0@C:\Users\A66571740\tdm-gcc
+Options: 
+CMake: 3.8.2@C:\Users\A66571740\Downloads\CLion-2017.2.3\bin\cmake\bin\cmake.exe

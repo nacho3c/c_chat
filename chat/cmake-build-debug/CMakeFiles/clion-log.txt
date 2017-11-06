@@ -1,0 +1,4 @@
+C:\Users\A66571740\Downloads\CLion-2017.2.3\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\A66571740\ClionProjects\cchat
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/A66571740/ClionProjects/cchat/cmake-build-debug

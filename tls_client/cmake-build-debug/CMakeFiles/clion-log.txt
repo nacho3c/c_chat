@@ -1,0 +1,5 @@
+C:\Users\A66571740\Downloads\CLion-2017.2.3\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\A66571740\ClionProjects\tls_raw_client
+-- Found OpenSSL: C:/Users/A66571740/tdm-gcc32/lib/libcrypto.lib (found version "1.1.0g") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/A66571740/ClionProjects/tls_raw_client/cmake-build-debug

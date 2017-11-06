@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/A66571740/ClionProjects/cchat/server.c
+winsock2.h
+-
+ws2tcpip.h
+-
+io.h
+-
+stdio.h
+-
+config.h
+C:/Users/A66571740/ClionProjects/cchat/config.h
+
+config.h
+

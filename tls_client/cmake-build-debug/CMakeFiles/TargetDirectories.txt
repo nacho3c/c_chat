@@ -1,0 +1,3 @@
+C:/Users/A66571740/ClionProjects/tls_raw_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/A66571740/ClionProjects/tls_raw_client/cmake-build-debug/CMakeFiles/tls_client.dir
+C:/Users/A66571740/ClionProjects/tls_raw_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

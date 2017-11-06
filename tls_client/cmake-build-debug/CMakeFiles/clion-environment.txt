@@ -1,0 +1,3 @@
+ToolSet: 3.20@C:\Users\A66571740\tdm-gcc32
+Options: 
+CMake: 3.8.2@C:\Users\A66571740\Downloads\CLion-2017.2.3\bin\cmake\bin\cmake.exe
